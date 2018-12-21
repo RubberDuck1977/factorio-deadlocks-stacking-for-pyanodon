@@ -3,6 +3,7 @@ local shared= {}
 shared.STACKABLES = {
   pycoalprocessing = {
     { item = "coke", icon = nil, stage = 1 },
+    { item = "soil", icon = nil, stage = 1 },
     { item = "fawogae", icon = nil, stage = 1 },
     { item = "iron-oxide", icon = nil, stage = 1 },
     { item = "ralesia", icon = nil, stage = 1 },
